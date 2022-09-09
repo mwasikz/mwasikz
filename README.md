@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Wasikuzzaman Azad Sajol</h1>
 <h3 align="center">A passionate programmer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mwasikz&label=Profile%20views&color=0e75b6&style=flat" alt="mwasikz" /> </p>
+
 
 - 🔭 I’m currently working on [BogaMart](https://github.com/mwasikz/bogamart)
 
@@ -20,3 +20,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mwasikz&show_icons=true&locale=en&layout=compact" alt="mwasikz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mwasikz&show_icons=true&locale=en" alt="mwasikz" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mwasikz&label=Profile%20views&color=0e75b6&style=flat" alt="mwasikz" /> </p>
