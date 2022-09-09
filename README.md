@@ -23,3 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mwasikz&show_icons=true&locale=en&hide=prs,contribs,issues&theme=radical" alt="mwasikz" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mwasikz&label=Profile%20views&color=0e75b6&style=flat" alt="mwasikz" /> </p>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mwasikz&repo=maze-solving-robot)](https://github.com/mwasikz/maze-solving-robot)
