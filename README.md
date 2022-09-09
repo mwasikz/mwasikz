@@ -25,8 +25,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mwasikz&label=Profile%20views&color=0e75b6&style=flat" alt="mwasikz" /> </p>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mwasikz&repo=bogamart)](https://github.com/mwasikz/bogamart)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mwasikz&repo=maze-solving-robot)](https://github.com/mwasikz/dingi)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mwasikz&repo=dingi)](https://github.com/mwasikz/dingi)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mwasikz&repo=Line-Following-Robot)](https://github.com/mwasikz/Line-Following-Robot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mwasikz&repo=Line-Following-Robot)](https://github.com/mwasikz/robo-cafe-rms)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mwasikz&repo=Line-Following-Robot)](https://github.com/mwasikz/delicieux-recipe-finder)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mwasikz&repo=Line-Following-Robot)](https://github.com/mwasikz/maze-solving-robot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mwasikz&repo=robo-cafe-rms)](https://github.com/mwasikz/robo-cafe-rms)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mwasikz&repo=delicieux-recipe-finder)](https://github.com/mwasikz/delicieux-recipe-finder)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mwasikz&repo=maze-solving-robot)](https://github.com/mwasikz/maze-solving-robot)
