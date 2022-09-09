@@ -30,3 +30,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mwasikz&repo=robo-cafe-rms)](https://github.com/mwasikz/robo-cafe-rms)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mwasikz&repo=delicieux-recipe-finder)](https://github.com/mwasikz/delicieux-recipe-finder)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mwasikz&repo=maze-solving-robot)](https://github.com/mwasikz/maze-solving-robot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mwasikz&repo=food-ordering-device )](https://github.com/mwasikz/food-ordering-device )
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mwasikz&repo=brain-meter)](https://github.com/mwasikz/brain-meter)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mwasikz&repo=react-native-to-do-list-app)](https://github.com/mwasikz/react-native-to-do-list-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mwasikz&repo=foxycash-v2)](https://github.com/mwasikz/foxycash-v2)
+
