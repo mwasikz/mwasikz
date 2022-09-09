@@ -25,7 +25,7 @@
 </p>
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mwasikz&repo=bogamart)](https://github.com/mwasikz/bogamart)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mwasikz&repo=bogamar)](https://github.com/mwasikz/bogamar)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mwasikz&repo=dingi)](https://github.com/mwasikz/dingi)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mwasikz&repo=Line-Following-Robot)](https://github.com/mwasikz/Line-Following-Robot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mwasikz&repo=robo-cafe-rms)](https://github.com/mwasikz/robo-cafe-rms)
