@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Wasikuzzaman Azad Sajol</h1>
 <h3 align="center">A passionate programmer from Bangladesh</h3>
 
-<img src="https://user-images.githubusercontent.com/74035623/189286106-aaf471e1-1598-42fa-95b3-f18317c757da.gif" width="200" height="200" align="right" alt="coding">
+<img src="https://user-images.githubusercontent.com/74035623/189286106-aaf471e1-1598-42fa-95b3-f18317c757da.gif" width="300" height="200" align="right" alt="coding">
 
 
 - 🔭 I’m currently working on [BogaMart](https://github.com/mwasikz/bogamart)
