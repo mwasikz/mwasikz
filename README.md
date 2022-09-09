@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mwasikz&label=Profile%20views&color=0e75b6&style=flat" alt="mwasikz" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mwasikz" alt="mwasikz" /></a> </p>
-
 - 🔭 I’m currently working on [BogaMart](https://github.com/mwasikz/bogamart)
 
 - 🌱 I’m currently learning **React Native**
