@@ -36,4 +36,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mwasikz&repo=react-native-to-do-list-app)](https://github.com/mwasikz/react-native-to-do-list-app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mwasikz&repo=foxycash-v2)](https://github.com/mwasikz/foxycash-v2)
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=mwasikz&label=Profile%20views&color=0e75b6&style=flat" alt="mwasikz" /> </p>
+<p align="right"> ![Badge](https://visitor-counter-five.vercel.app/api/mwasikz/visitor-counter-badge?label=Hits&color=FFC107&labelColor=343A40) </p>
