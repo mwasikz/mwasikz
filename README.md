@@ -1,4 +1,4 @@
-![Badge](https://visitor-counter-five.vercel.app/api/mwasikz/visitor-counter-badge?label=Hits&color=FFC107&labelColor=343A40) 
+![Badge](https://visitor-counter-five.vercel.app/api/mwasikz/visitor-counter-badge?label=Visitors&color=FFC107&labelColor=343A40) 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Mohammad Wasikuzzaman Azad Sajol</h1>
 <h3 align="center">A passionate programmer from Bangladesh</h3>
 
